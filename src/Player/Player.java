@@ -4,7 +4,7 @@ public class Player {
     private int experience;
 
     public Player() {
-        this.experience = 0;
+        this.experience = 300;
     }
 
     public int getExperience() {

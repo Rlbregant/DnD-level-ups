@@ -7,7 +7,7 @@ public class LevelUp {
         Player player = new Player();
         int x = player.getExperience();
 
-        xp game = new xp(x);
-        game.displayLevel();
+        xp myXp = new xp(x);
+        myXp.displayLevel();
     }
 }
